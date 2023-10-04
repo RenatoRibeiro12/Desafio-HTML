@@ -1,0 +1,11 @@
+#password-toogle {
+    width: 150px;
+    padding-right: 20px;
+  }
+  
+  .olho {
+    cursor: pointer;
+    left: 220px;
+    position: absolute;
+    width: 20px;
+  }

@@ -3,6 +3,11 @@
   padding: 0;
 } */
 
+body{
+padding-top: 70px;
+background-color: #CCCC;
+}
+
 
 #password-toogle {
     width: 150px;
@@ -16,6 +21,7 @@
   }
 
   fieldset{
+    background-color: white;
     text-align: center;
     border-radius: 20px;
     width: min-content;
@@ -28,6 +34,6 @@
 
   .botao{
     border-radius: 7px;
-    background-color: rgb(5, 90, 5);
+    background-color: green;
     color: white;
   }
